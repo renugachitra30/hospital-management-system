@@ -512,4 +512,4 @@ Renuga R
 
 Java Developer | Spring Boot | Microservices | REST APIs | SQL
 
-[GitHub](https://github.com/your-username) · [LinkedIn](www.linkedin.com/in/renugachitra30)
+[GitHub](https://github.com/renugachitra30) · [LinkedIn](https://www.linkedin.com/in/renugachitra30/)
